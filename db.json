@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "test11",
+      "email": "test11@testmail.com",
+      "pwd": "test11"
+    },
+    {
+      "user": "test6",
+      "email": "test6@test.com",
+      "pwd": "test6",
+      "id": 2
+    }
+  ],
+  "recipes":[
+    {
+      "id": 1,
+      "ingradients": ["ing1", "ing2","ing3"],
+      "instructions": "Take 2 tea spoonfuls of ing1 & 1 cup of ing2 and 30 oz of ing3. Mix well, add 1/2 cups of water."
+    },
+    {
+      "ingradients": ["ing2", "ing4","ing5"],
+      "instructions": "mix ing2 + ing4. Springkle ing5",
+      "id": 2
+    }
+
+  ]
+}
